@@ -24,3 +24,4 @@ site/resources/*
 site/public/*
 
 .venv # python venv
+.idea # jetbrains
